@@ -1,2 +1,3 @@
 # Bugsquash
-Voorbeeldapplicatie voor de workshop Programmeer wat je liket
+
+Voorbeeldapplicatie voor de workshop "Programmeer wat je liket".
